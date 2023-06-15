@@ -20,28 +20,7 @@ module.exports = {
     "n/file-extension-in-import": "off",
     "unicorn/no-array-callback-reference": "off",
     "unicorn/require-array-join-separator": "off",
-    "unicorn/prevent-abbreviations": [
-      "error",
-      {
-        replacements: {
-          params: false,
-          ctx: false,
-          e: false,
-          i: false,
-          j: false,
-          env: false,
-          str: false,
-          mod: false,
-          ref: false,
-          dir: false,
-          func: false,
-          arg: false,
-          args: false,
-          ext: false,
-          dev: false,
-        }
-      }
-    ],
+    "unicorn/prevent-abbreviations": "off",
     "unicorn/explicit-length-check": "off",
     "unicorn/no-array-reduce": "off",
   }
