@@ -9,6 +9,7 @@ module.exports = {
     "no-return-assign": "off",
     "no-bitwise": "off",
     "no-implicit-coercion": "off",
+    "prefer-template": "error",
     "@typescript-eslint/naming-convention": "off",
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/prefer-nullish-coalescing": "off",
