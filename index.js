@@ -11,6 +11,7 @@ module.exports = {
     "no-implicit-coercion": "off",
     "prefer-template": "error",
     "arrow-body-style": ["error", "as-needed"],
+    "no-unused-imports": "error",
     "@typescript-eslint/naming-convention": "off",
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/prefer-nullish-coalescing": "off",
@@ -25,5 +26,5 @@ module.exports = {
     "unicorn/prevent-abbreviations": "off",
     "unicorn/explicit-length-check": "off",
     "unicorn/no-array-reduce": "off",
-  }
+  },
 };
