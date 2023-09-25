@@ -19,6 +19,7 @@ module.exports = {
     "@typescript-eslint/member-ordering": "off",
     "import/extensions": "off",
     "import/no-unassigned-import": "off",
+    "import/order": "off",
     "n/file-extension-in-import": "off",
     "unicorn/no-array-callback-reference": "off",
     "unicorn/require-array-join-separator": "off",
